@@ -73,7 +73,7 @@ const GetInTouch = () => {
           variant="description"
           textDecoration="none"
           rel="noreferrer"
-          href="https://github.com/mastercodercat"
+          href="https://github.com/ienjoyjs"
           target="_blank"
           _focus={{ boxShadow: 'none' }}
         >
