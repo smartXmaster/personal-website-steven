@@ -56,7 +56,11 @@ const GetInTouch = () => {
         human interaction battery lasts. Leading, work, movies or even meetings,
         anything is cool. So feel free to message me on any of my social media
         or shoot me an{' '}
-        <Link href="stevengraham0214@gmail.com" target="_blank" rel="noreferrer">
+        <Link
+          href="stevengraham0214@gmail.com"
+          target="_blank"
+          rel="noreferrer"
+        >
           email
         </Link>
         .
@@ -73,7 +77,7 @@ const GetInTouch = () => {
           variant="description"
           textDecoration="none"
           rel="noreferrer"
-          href="https://github.com/ienjoyjs"
+          href="https://github.com/mastercodercat"
           target="_blank"
           _focus={{ boxShadow: 'none' }}
         >

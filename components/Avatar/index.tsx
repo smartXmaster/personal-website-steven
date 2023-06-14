@@ -60,7 +60,7 @@ const Avatar = () => {
         <Text textAlign="center" fontSize="smaller" variant="description">
           Art by{' '}
           <Link
-            href="https://github.com/ienjoyjs"
+            href="https://github.com/mastercodercat"
             target="_blank"
             aria-label="Steven"
             rel="noreferrer"
