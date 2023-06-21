@@ -49,7 +49,7 @@ export const SocialMedias: SocialMedia[] = [
   // },
   {
     label: 'Github',
-    href: 'https://github.com/ienjoyjs',
+    href: 'https://github.com/mastercodercat',
     icon: FaGithub,
   },
   // {
