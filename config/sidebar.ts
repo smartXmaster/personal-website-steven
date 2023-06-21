@@ -37,11 +37,11 @@ export const SocialMedias: SocialMedia[] = [
     href: 'https://www.linkedin.com/in/stevengraham0214',
     icon: FaLinkedin,
   },
-  {
-    label: 'StackOverflow',
-    href: 'https://stackoverflow.com/users/21950574/smartxmaster',
-    icon: FaStackOverflow,
-  },
+  // {
+  //   label: 'StackOverflow',
+  //   href: 'https://stackoverflow.com/users/21950574/smartxmaster',
+  //   icon: FaStackOverflow,
+  // },
   // {
   //   label: 'Youtube',
   //   href: 'https://www.youtube.com/@steven',
@@ -49,12 +49,12 @@ export const SocialMedias: SocialMedia[] = [
   // },
   {
     label: 'Github',
-    href: 'https://github.com/mastercodercat',
+    href: 'https://github.com/ienjoyjs',
     icon: FaGithub,
   },
-  {
-    label: 'Dev.to',
-    href: 'https://dev.to/smartxmaster',
-    icon: FaDev,
-  },
+  // {
+  //   label: 'Dev.to',
+  //   href: 'https://dev.to/smartxmaster',
+  //   icon: FaDev,
+  // },
 ]
